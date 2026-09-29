@@ -4,7 +4,7 @@ First copy your completed Lab 02 distance-function implementations into this
 lab's `knn.py`. Then open `knn.ipynb` and complete label prediction and the
 `KnnClassifier` class.
 
-Learning goals:
+Important Learning goals:
 
 - find nearest neighbors and implement majority voting;
 - handle ties deterministically;
